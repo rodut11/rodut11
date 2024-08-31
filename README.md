@@ -7,7 +7,7 @@ I'm currently learning Python
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodut11&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodut11&show_icons=true&theme=transparent)
 <!--
 **rodut11/rodut11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
