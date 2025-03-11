@@ -90,5 +90,9 @@ hLHEpDcZMV4Pmg==
   <img src="https://img.shields.io/badge/Matrix-7BC5D6?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix Chat">
 </a>
 
+<a href="https://twitter.com/rodut_eleven">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
 
 
