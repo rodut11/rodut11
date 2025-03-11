@@ -80,6 +80,8 @@ hLHEpDcZMV4Pmg==
 
 📬 Contact
 
-    📧 Email: rodut11@protonmail.com
-    🔗 Discord: @rodut11
+  📧 Email: rodut11@protonmail.com
+  🔗 Discord: [Discord](https://discord.com/users/615863053908443146)
+  🔗 Discord: [Matrix Chat](https://matrix.to/#/@rodut11:matrix.org)
+
 
