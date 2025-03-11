@@ -81,7 +81,14 @@ hLHEpDcZMV4Pmg==
 📬 Contact
 
   📧 Email: rodut11@protonmail.com
-  🔗 Discord: [Discord](https://discord.com/users/615863053908443146)
-  🔗 Discord: [Matrix Chat](https://matrix.to/#/@rodut11:matrix.org)
+  
+<a href="https://discord.com/users/615863053908443146">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="https://matrix.to/#/@rodut11:matrix.org">
+  <img src="https://img.shields.io/badge/Matrix-7BC5D6?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix Chat">
+</a>
+
 
 
