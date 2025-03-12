@@ -21,7 +21,7 @@
 
 ![rodut11's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodut11&show_icons=true&theme=transparent)
 
-🔑 PGP Key
+🔑 [PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/3AB3394FCFF14EF6DED1CD30B068D4D295EF336F)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
