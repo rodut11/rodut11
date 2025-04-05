@@ -2,8 +2,7 @@
   About Me
 
     🔥 Passionate about low-level programming, OS development, and reverse engineering
-    🐧 Arch Linux user (btw) – full control, no bloat
-    🛡️ Privacy advocate – Tor user & self-hosting enthusiast
+    🐧 Arch Linux user (btw)
     ⚙️ Learning C, C++, and Assembly while building my own UNIX-like OS
 
 🛠️ Projects
@@ -15,8 +14,7 @@
 
     Languages: C, C++, Assembly (learning)
     Tools: GNU toolchain, QEMU, GDB, Vim/NeoVim, Git
-    Hardware: Ryzen 5600X, RTX 3060, Arch Linux w/ PipeWire & ly DM
-
+    
 📊 GitHub Stats
 
 ![rodut11's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodut11&show_icons=true&theme=transparent)
