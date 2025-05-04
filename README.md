@@ -1,5 +1,5 @@
-🚀 rodut11
-  About Me
+
+🚀 About Me
 
     🔥 Passionate about low-level programming, OS development, and reverse engineering
     🐧 Arch Linux user (btw)
