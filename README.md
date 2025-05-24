@@ -4,6 +4,7 @@
     🔥 Passionate about low-level programming, OS development, and reverse engineering
     🐧 Arch Linux user (btw)
     ⚙️ Learning C, C++, and Assembly while building my own UNIX-like OS
+    ⛏️ Excessive Minecraft player
 
 🛠️ Projects
 
