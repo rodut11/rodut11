@@ -97,7 +97,7 @@ hLHEpDcZMV4Pmg==
   <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
 </a>
 
-<a href="https://bsky.app/profile/rodut11.bsky.social">
+<a href="https://bsky.app/profile/rodut11.dev">
   <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
 </a>
 
