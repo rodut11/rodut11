@@ -3,14 +3,13 @@
 
     🔥 Passionate about low-level programming, OS development, and reverse engineering
     🐧 Arch Linux user (btw)
-    ⚙️ Learning C, C++, and Assembly while building my own UNIX-like OS
+    ⚙️ Learning C, C++, and Assembly
     ⛏️ Excessive Minecraft player
 
 🛠️ Projects
 
     🏗️ Custom OS – building a UNIX-like OS from scratch (kernel, drivers, graphics stack)
-    🔢 Custom Bootloader – because GRUB is too mainstream
-
+    🔢 Custom Bootloader
 🔧 Tech Stack
 
     Languages: C, C++, Assembly (learning)
