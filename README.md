@@ -78,7 +78,6 @@ hLHEpDcZMV4Pmg==
 ```
 
 📬 Contact
-
   📧 Email: rodut11@protonmail.com
   
 <a href="https://discord.com/users/615863053908443146">
@@ -101,4 +100,7 @@ hLHEpDcZMV4Pmg==
   <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
 </a>
 
+<a href="https://rodut11.dev">
+  <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
+</a>
 
