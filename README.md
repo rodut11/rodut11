@@ -12,8 +12,11 @@
     🔢 Custom Bootloader
 🔧 Tech Stack
 
-    Languages: C, C++, Assembly (learning)
-    Tools: GNU toolchain, QEMU, GDB, Vim/NeoVim, Git
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,arch,linux,cmake,clion,obsidian,raspberrypi" />
+  </a>
+</p>
     
 📊 GitHub Stats
 
