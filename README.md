@@ -83,7 +83,7 @@ hLHEpDcZMV4Pmg==
 📬 Contact <br/>
   📧 Email: rodut11@protonmail.com
   
-<a href="https://discord.com/users/615863053908443146">
+<a href="https://discord.gg/uYdWQNQvJ7">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
