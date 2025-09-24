@@ -104,6 +104,6 @@ hLHEpDcZMV4Pmg==
 </a>
 
 <a href="https://rodut11.dev">
-  <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/rodut11.dev-0074DA?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
 </a>
 
