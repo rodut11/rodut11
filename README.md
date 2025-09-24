@@ -80,7 +80,7 @@ hLHEpDcZMV4Pmg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-📬 Contact
+📬 Contact <br/>
   📧 Email: rodut11@protonmail.com
   
 <a href="https://discord.com/users/615863053908443146">
