@@ -8,8 +8,7 @@
 
 🛠️ Projects
 
-    🏗️ Custom OS – building a UNIX-like OS from scratch (kernel, drivers, graphics stack)
-    🔢 Custom Bootloader
+    C Blockblast solver
 🔧 Tech Stack
 
 <p align="center">
