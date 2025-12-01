@@ -19,8 +19,8 @@
     
 📊 GitHub Stats
 
-![rodut11's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodut11&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![rodut11's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodut11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![rodut11's GitHub stats](https://stats.rodut11.dev/api?username=rodut11&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![rodut11's GitHub stats](https://stats.rodut11.dev/api/top-langs/?username=rodut11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 🔑 [PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/3AB3394FCFF14EF6DED1CD30B068D4D295EF336F)
 
