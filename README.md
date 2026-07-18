@@ -101,3 +101,4 @@ hLHEpDcZMV4Pmg==
   <img src="https://img.shields.io/badge/rodut11.dev-0074DA?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
 </a>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/615863053908443146)](https://discord.com/users/615863053908443146)
